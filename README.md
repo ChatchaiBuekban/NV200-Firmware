@@ -150,7 +150,7 @@ override fun onDeviceUpdateStatus(update: SSPUpdate?) {
 ### 2.4 Get firmware version
 
 ```kotlin
-   val device = nv200?.getDevice()
+val device = nv200?.getDevice()
 val version = device?.firmwareVersion // Get version as string
 ```
 
