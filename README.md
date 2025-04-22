@@ -11,7 +11,7 @@
  
 ```
 
-### 1.2 copy device.itl.sspcoms and source code to java in rooot project
+### 1.2 copy device.itl.sspcoms source code to java folder in root project
 
 daemon\
 |_____app\
